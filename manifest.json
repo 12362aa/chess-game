@@ -1,0 +1,1 @@
+{"name":"شطرنج — Am-Kh","short_name":"شطرنج","description":"لعبة شطرنج كاملة","start_url":"./","display":"standalone","orientation":"portrait-primary","background_color":"#0d0d1a","theme_color":"#0d0d1a","lang":"ar","dir":"rtl","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],"categories":["games"]}
